@@ -1,0 +1,8 @@
+Gallery website colors.
+Red,Black, and White.
+
+Four pages.
+Page1 - Home/cover page
+Page2 - Car Gallery
+Page3 - Music Gallery
+Page4 - Fish Gallery
